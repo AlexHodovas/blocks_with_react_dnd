@@ -1,1 +1,1 @@
-[DEMO LINK](https://AlexHodovas.github.io/blocks-with-react-dnd/)
+[DEMO LINK](https://AlexHodovas.github.io/blocks_with_react_dnd/)

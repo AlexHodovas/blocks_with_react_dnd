@@ -1,6 +1,6 @@
 {
-  "homepage": "https://AlexHodovas.github.io/blocks-with-react-dnd/",
-  "name": "blocks-with-react-dnd",
+  "homepage": "https://AlexHodovas.github.io/blocks_with_react_dnd/",
+  "name": "blocks_with_react_dnd",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

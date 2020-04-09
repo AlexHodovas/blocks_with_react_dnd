@@ -1,0 +1,152 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="sc-AxiKw gMkJnZ"
+>
+  <table
+    className="sc-AxheI dTrmKq"
+    onMouseEnter={[Function]}
+  >
+    <thead />
+    <tbody>
+      <tr>
+        <td
+          className="sc-AxgMl esozLi"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="sc-AxgMl esozLi"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="sc-AxgMl esozLi"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="sc-AxgMl esozLi"
+          onMouseOver={[Function]}
+        />
+      </tr>
+      <tr>
+        <td
+          className="sc-AxgMl esozLi"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="sc-AxgMl esozLi"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="sc-AxgMl esozLi"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="sc-AxgMl esozLi"
+          onMouseOver={[Function]}
+        />
+      </tr>
+      <tr>
+        <td
+          className="sc-AxgMl esozLi"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="sc-AxgMl esozLi"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="sc-AxgMl esozLi"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="sc-AxgMl esozLi"
+          onMouseOver={[Function]}
+        />
+      </tr>
+      <tr>
+        <td
+          className="sc-AxgMl esozLi"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="sc-AxgMl esozLi"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="sc-AxgMl esozLi"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="sc-AxgMl esozLi"
+          onMouseOver={[Function]}
+        />
+      </tr>
+    </tbody>
+  </table>
+  <div
+    className="sc-AxjAm jGrzUd"
+  >
+    <div
+      onClick={[Function]}
+      style={
+        Object {
+          "height": "48px",
+          "lineHeight": "48px",
+          "textAlign": "center",
+        }
+      }
+    >
+      +
+    </div>
+  </div>
+  <div
+    className="sc-AxirZ QCVaJ"
+  >
+    <div
+      onClick={[Function]}
+      style={
+        Object {
+          "height": "48px",
+          "lineHeight": "48px",
+          "textAlign": "center",
+        }
+      }
+    >
+      +
+    </div>
+  </div>
+  <div
+    className="sc-AxhUy bGMevz"
+    onClick={[Function]}
+  >
+    <div
+      style={
+        Object {
+          "height": "48px",
+          "lineHeight": "48px",
+          "textAlign": "center",
+        }
+      }
+    >
+      -
+    </div>
+  </div>
+  <div
+    className="sc-AxhCb eCtuRO"
+    onClick={[Function]}
+  >
+    <div
+      style={
+        Object {
+          "height": "48px",
+          "lineHeight": "48px",
+          "textAlign": "center",
+        }
+      }
+    >
+      -
+    </div>
+  </div>
+</div>
+`;
